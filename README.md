@@ -27,8 +27,7 @@ Dessa forma, o projeto demonstra como trabalhar com eventos de toque, latitude, 
 ---
 
 ## Prints
-
-<img width="1221" height="906" alt="Google Maps Flutter" src="COLOQUE_AQUI_O_LINK_DA_IMAGEM" />
+<img width="1226" height="822" alt="Captura de tela 2026-09-30 112559" src="https://github.com/user-attachments/assets/3647942f-a168-415d-a7ac-1a1aa810cfbb" />
 
 ---
 
@@ -36,7 +35,6 @@ Dessa forma, o projeto demonstra como trabalhar com eventos de toque, latitude, 
 
 - **Flutter SDK**
 - **Dart**
-- **`google_maps_flutter`**
 - **Google Maps API**
 - **Flutter Web**
 
